@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Simulation de donation - Template
 
 A simple Streamlit app template for you to modify!
 
